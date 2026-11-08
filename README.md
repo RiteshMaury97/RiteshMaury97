@@ -1,24 +1,128 @@
-# 💫 About Me:
-Hey there! I'm an 18-year-old tech enthusiast passionate about coding, web development, and creative design. I started my journey with HTML, CSS, and JavaScript, building projects to sharpen my skills.<br><br>At 15, I explored cloud hosting, Oracle, AWS, Ubuntu, and Docker and created WordPress websites for clients. Now, I'm focused on improving my coding skills to build more beautiful and functional websites while exploring new technologies.<br><br>I am taking challenges from anonymous users to enhance my skills and better understand how strong I am in my craft. If anyone would like to email me a challenge, please contact me first—I will surely reply and accept your challenge based on real-time ideas.<br><br>Always learning, always building! 💡
+ <div align="center">
 
+<img src="./assets/profile-hero.svg" width="100%" alt="Ritesh Maurya — Developer Profile Banner" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rm_mau_rya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshmaury97) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/RiteshMaury97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshmaury97@gmail.com) 
+**Frontend / Full-Stack Developer · Cloud Enthusiast · Community Builder**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RiteshMaury97&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RiteshMaury97&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshMaury97&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[Portfolio](https://riteshmaurya-phi.vercel.app/) · [GitHub](https://github.com/riteshmaury97) · [Repositories](https://github.com/riteshmaury97?tab=repositories)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RiteshMaury97&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality.;Exploring+Cloud+and+Agentic+AI.;Learning+%7C+Building+%7C+Innovating." />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RiteshMaury97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RiteshMaury97&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` / About Me
+
+Hey! I'm **Ritesh Maurya**, a Computer Science and Engineering student at Dev Bhoomi Uttarakhand University, India.
+
+I enjoy building digital products, exploring emerging technologies, and turning ideas into practical solutions.
+
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Full-Stack Web Development
+- ☁️ AWS & Cloud Computing
+- 🤖 Generative AI & Agentic AI
+- 🚀 Developer Communities & Open Source
+- 🛠️ Building real-world applications
+
+```typescript
+const ritesh = {
+  role: "Developer & Tech Enthusiast",
+  education: "B.Tech CSE @ DBUU",
+  interests: ["Full-Stack", "Cloud", "AI", "DevOps"],
+  currentlyLearning: ["Agentic AI", "AWS", "System Design"],
+  philosophy: "Learn continuously. Build meaningfully."
+};
+```
+
+## `02` / Technology Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,figma" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres" />
+
+**Cloud & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,git,github,cloudflare,vercel,postman,vscode" />
+
+## `03` / Selected Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| Satyam International School | Modern school website and digital management ecosystem | Next.js, Firebase, TypeScript |
+| DesignVault | Personal design-resource management platform | Next.js, Firebase |
+| SiS Voting | Secure institutional voting platform | Next.js, Firebase, TypeScript |
+ 
+[Explore all my repositories →](https://github.com/riteshmaury97?tab=repositories)
+
+## `04` / Community & Achievements
+
+- ☁️ AWS Student Builder – DBUU
+- 🌐 Google developer community and campus technology initiatives
+- 🚀 Campus ambassador and student engagement initiatives
+- 💡 Innovators Club activities
+- 🎓 Hosted an IBM SkillsBuild introduction session with 90 participants
+- 🤖 Exploring hands-on Agentic AI development
+
+## `05` / GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshmaury97&show_icons=true&hide_border=true&bg_color=080D19&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaury97&layout=compact&hide_border=true&bg_color=080D19&title_color=67E8F9&text_color=C9D1D9" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaury97&hide_border=true&background=080D19&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9" />
+
+</div>
+
+## `06` / Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshmaury97&bg_color=080d19&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## `07` / Current Mission
+
+```text
+[01] Building production-ready web applications
+[02] Exploring AWS and cloud architecture
+[03] Experimenting with Agentic AI
+[04] Improving software engineering skills
+[05] Contributing to developer communities
+```
+
+## `08` / Let's Connect
+
+<div align="center">
+
+<a href="https://riteshmaurya-phi.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/riteshmaury97">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILD SOMETHING MEANINGFUL.**
+
+`DESIGN` / `DEVELOP` / `DEPLOY` / `REPEAT`
+
+<img src="https://komarev.com/ghpvc/?username=riteshmaury97&style=flat-square&color=0891B2&label=PROFILE+VISITORS" />
+
+</div>
