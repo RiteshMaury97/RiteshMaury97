@@ -53,8 +53,9 @@ I - m **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bho
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RiteshMaury97&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=D7E0EE" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshMaury97&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=D7E0EE" alt="Most used languages on GitHub" />
+**Building in public, one project at a time.**
+
+[GitHub profile and contribution activity](https://github.com/RiteshMaury97) · [All repositories](https://github.com/RiteshMaury97?tab=repositories)
 
 </div>
 
