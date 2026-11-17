@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Analytics & Contribution Snake
 
 on:
   schedule:
@@ -12,6 +12,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate live GitHub dashboard
+        run: node .github/scripts/generate-profile-dashboard.mjs
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:

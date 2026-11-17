@@ -14,7 +14,7 @@ Building useful web experiences and learning in public from India.
 
 ## A little about me
 
-I - m **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bhoomi Uttarakhand University**. I enjoy taking ideas from interface to implementation, with a growing focus on cloud platforms and AI-powered products.
+I'm **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bhoomi Uttarakhand University**. I enjoy taking ideas from interface to implementation, with a growing focus on cloud platforms and AI-powered products.
 
 - Studying B.Tech in Computer Science & Engineering
 - Building with JavaScript, TypeScript, React, and Next.js
@@ -29,7 +29,7 @@ I - m **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bho
 | **Mindmate** | A project in my public portfolio; visit the repository for its current scope and implementation. | [Repository](https://github.com/RiteshMaury97/Mindmate) |
 | **My Personal Portfolio** | My portfolio site and a home for selected work. | [Repository](https://github.com/RiteshMaury97/My-Personal-Portfolio) / [Live site](https://riteshmaurya-phi.vercel.app/) |
 
-[Browse all repositories  - ](https://github.com/RiteshMaury97?tab=repositories)
+[Browse all repositories](https://github.com/RiteshMaury97?tab=repositories)
 
 ## Tools I use
 
@@ -49,15 +49,59 @@ I - m **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bho
 
 `AWS & cloud architecture` / `Agentic AI` / `System design` / `Production-ready application development`
 
-## GitHub activity
+## GitHub Analytics Dashboard
 
 <div align="center">
 
-**Building in public, one project at a time.**
+<img src="https://raw.githubusercontent.com/RiteshMaury97/RiteshMaury97/output/profile-dashboard.svg" width="100%" alt="Live GitHub statistics, custom activity level, programming languages, verified milestones, and recently updated repositories" />
 
-[GitHub profile and contribution activity](https://github.com/RiteshMaury97) · [All repositories](https://github.com/RiteshMaury97?tab=repositories)
+<img src="https://raw.githubusercontent.com/RiteshMaury97/RiteshMaury97/output/contribution-heatmap.svg" width="100%" alt="GitHub public contribution heatmap for the past 12 months" />
 
 </div>
+
+*If dashboard images have not appeared yet, enable Actions and run **Generate Profile Analytics & Contribution Snake** once from the Actions tab. The dashboard refreshes daily. Contributions and account metrics use public GitHub data; private activity is excluded.*
+
+### Developer Arcade
+
+GitHub README files cannot run JavaScript or track game state, so these are static challenges with answer reveals.
+
+**GitHub Snake Challenge**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RiteshMaury97/RiteshMaury97/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake traversing my public GitHub contribution graph" />
+
+</div>
+
+*Fallback: [open my contribution activity on GitHub](https://github.com/RiteshMaury97#contributions-calendar).*
+
+**Developer Quiz** - What does `typeof NaN` return in JavaScript?
+
+<details>
+<summary>Reveal answer and scoring</summary>
+
+It returns `"number"`. Give yourself 1 point if you knew it before opening the answer.
+
+</details>
+
+**Terminal Challenge** - Predict the output:
+
+```text
+>>> 2 ** 3 ** 2
+512
+```
+
+Python exponentiation is right-associative, so this evaluates to `2 ** (3 ** 2)`.
+
+**Daily Coding Challenge** - [Try a problem on LeetCode](https://leetcode.com/problemset/).
+
+### Milestones & learning
+
+- **Verified activity:** public repositories, stars, forks, pull requests, reviews, and contribution streaks appear as unlocked only when the GitHub API reports them.
+- **Community experience:** AWS Student Builder, Google Student Ambassador, IIT Delhi Techfest Ambassador, and an IBM SkillsBuild session hosted for 90 participants.
+- **Learning interests:** AWS and cloud architecture, agentic AI, and system design. These are interests, not earned badges.
+
+The custom XP score is a reproducible activity measure, not an official GitHub ranking or a measure of engineering skill. The exact formula and thresholds are documented in [the dashboard setup guide](.github/profile-dashboard.md).
 
 ## Find me
 
