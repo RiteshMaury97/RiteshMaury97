@@ -1,128 +1,72 @@
- <div align="center">
+﻿<div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Ritesh Maurya — Developer Profile Banner" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Ritesh Maurya / developer, cloud explorer, and community builder" />
 
-**Frontend / Full-Stack Developer · Cloud Enthusiast · Community Builder**
+### Frontend & Full-Stack Development / Cloud / Applied AI
 
-[Portfolio](https://riteshmaurya-phi.vercel.app/) · [GitHub](https://github.com/riteshmaury97) · [Repositories](https://github.com/riteshmaury97?tab=repositories)
+Building useful web experiences and learning in public from India.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality.;Exploring+Cloud+and+Agentic+AI.;Learning+%7C+Building+%7C+Innovating." />
-
-</div>
-
----
-
-## `01` / About Me
-
-Hey! I'm **Ritesh Maurya**, a Computer Science and Engineering student at Dev Bhoomi Uttarakhand University, India.
-
-I enjoy building digital products, exploring emerging technologies, and turning ideas into practical solutions.
-
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Full-Stack Web Development
-- ☁️ AWS & Cloud Computing
-- 🤖 Generative AI & Agentic AI
-- 🚀 Developer Communities & Open Source
-- 🛠️ Building real-world applications
-
-```typescript
-const ritesh = {
-  role: "Developer & Tech Enthusiast",
-  education: "B.Tech CSE @ DBUU",
-  interests: ["Full-Stack", "Cloud", "AI", "DevOps"],
-  currentlyLearning: ["Agentic AI", "AWS", "System Design"],
-  philosophy: "Learn continuously. Build meaningfully."
-};
-```
-
-## `02` / Technology Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,figma" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres" />
-
-**Cloud & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,git,github,cloudflare,vercel,postman,vscode" />
-
-## `03` / Selected Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Satyam International School | Modern school website and digital management ecosystem | Next.js, Firebase, TypeScript |
-| DesignVault | Personal design-resource management platform | Next.js, Firebase |
-| SiS Voting | Secure institutional voting platform | Next.js, Firebase, TypeScript |
- 
-[Explore all my repositories →](https://github.com/riteshmaury97?tab=repositories)
-
-## `04` / Community & Achievements
-
-- ☁️ AWS Student Builder – DBUU
-- 🌐 Google developer community and campus technology initiatives
-- 🚀 Campus ambassador and student engagement initiatives
-- 💡 Innovators Club activities
-- 🎓 Hosted an IBM SkillsBuild introduction session with 90 participants
-- 🤖 Exploring hands-on Agentic AI development
-
-## `05` / GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshmaury97&show_icons=true&hide_border=true&bg_color=080D19&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshmaury97&layout=compact&hide_border=true&bg_color=080D19&title_color=67E8F9&text_color=C9D1D9" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaury97&hide_border=true&background=080D19&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9" />
-
-</div>
-
-## `06` / Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshmaury97&bg_color=080d19&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
-## `07` / Current Mission
-
-```text
-[01] Building production-ready web applications
-[02] Exploring AWS and cloud architecture
-[03] Experimenting with Agentic AI
-[04] Improving software engineering skills
-[05] Contributing to developer communities
-```
-
-## `08` / Let's Connect
-
-<div align="center">
-
-<a href="https://riteshmaurya-phi.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/riteshmaury97">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[Portfolio](https://riteshmaurya-phi.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/riteshmaury97/) / [Projects](https://github.com/RiteshMaury97?tab=repositories)
 
 </div>
 
 ---
 
+## A little about me
+
+I - m **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bhoomi Uttarakhand University**. I enjoy taking ideas from interface to implementation, with a growing focus on cloud platforms and AI-powered products.
+
+- Studying B.Tech in Computer Science & Engineering
+- Building with JavaScript, TypeScript, React, and Next.js
+- Exploring AWS, backend development, and agentic AI
+- Interested in open source, developer communities, and practical products
+
+## Selected work
+
+| Project | What it is | Explore |
+| --- | --- | --- |
+| **Finance Navigator** | A finance project exploring how AI can support money management and saving decisions. | [Repository](https://github.com/RiteshMaury97/Finance-Navigator) |
+| **Mindmate** | A project in my public portfolio; visit the repository for its current scope and implementation. | [Repository](https://github.com/RiteshMaury97/Mindmate) |
+| **My Personal Portfolio** | My portfolio site and a home for selected work. | [Repository](https://github.com/RiteshMaury97/My-Personal-Portfolio) / [Live site](https://riteshmaurya-phi.vercel.app/) |
+
+[Browse all repositories  - ](https://github.com/RiteshMaury97?tab=repositories)
+
+## Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,nodejs,firebase,mongodb,mysql,aws,git,github,docker,vercel&perline=8" alt="JavaScript, TypeScript, Python, Java, React, Next.js, Tailwind CSS, Node.js, Firebase, MongoDB, MySQL, AWS, Git, GitHub, Docker, and Vercel" />
+</p>
+
+## Community
+
+- AWS Student Builder at DBUU; AWS Student Builder Community Leader
+- Google Student Ambassador
+- IIT Delhi Techfest Ambassador
+- Hosted an IBM SkillsBuild introduction session for 90 participants
+- Involved in campus technology initiatives and Innovators Club activities
+
+## Currently learning
+
+`AWS & cloud architecture` / `Agentic AI` / `System design` / `Production-ready application development`
+
+## GitHub activity
+
 <div align="center">
 
-**BUILD SOMETHING MEANINGFUL.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RiteshMaury97&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=D7E0EE" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshMaury97&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=D7E0EE" alt="Most used languages on GitHub" />
 
-`DESIGN` / `DEVELOP` / `DEPLOY` / `REPEAT`
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=riteshmaury97&style=flat-square&color=0891B2&label=PROFILE+VISITORS" />
+## Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=67E8F9)](https://riteshmaurya-phi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/riteshmaury97/)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=67E8F9)](https://www.instagram.com/rm_mau_rya/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/RiteshMaury97)
+
+<div align="center">
+
+*Learn continuously. Build meaningfully.*
 
 </div>
