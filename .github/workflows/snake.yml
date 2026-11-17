@@ -1,6 +1,13 @@
 name: Generate Profile Analytics & Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate-profile-dashboard.mjs"
+      - ".github/workflows/snake.yml"
+      - "README.md"
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:

@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/profile-hero.svg" width="100%" alt="Ritesh Maurya / developer, cloud explorer, and community builder" />
 
@@ -58,8 +58,6 @@ I'm **Ritesh Maurya**, a Computer Science and Engineering student at **Dev Bhoom
 <img src="https://raw.githubusercontent.com/RiteshMaury97/RiteshMaury97/output/contribution-heatmap.svg" width="100%" alt="GitHub public contribution heatmap for the past 12 months" />
 
 </div>
-
-*If dashboard images have not appeared yet, enable Actions and run **Generate Profile Analytics & Contribution Snake** once from the Actions tab. The dashboard refreshes daily. Contributions and account metrics use public GitHub data; private activity is excluded.*
 
 ### Developer Arcade
 
